@@ -1,0 +1,16 @@
+C:\Users\mobak\Desktop\Esstate Management System\bin\Debug\net5.0\Esstate Management System.exe
+C:\Users\mobak\Desktop\Esstate Management System\bin\Debug\net5.0\Esstate Management System.deps.json
+C:\Users\mobak\Desktop\Esstate Management System\bin\Debug\net5.0\Esstate Management System.runtimeconfig.json
+C:\Users\mobak\Desktop\Esstate Management System\bin\Debug\net5.0\Esstate Management System.runtimeconfig.dev.json
+C:\Users\mobak\Desktop\Esstate Management System\bin\Debug\net5.0\Esstate Management System.dll
+C:\Users\mobak\Desktop\Esstate Management System\bin\Debug\net5.0\ref\Esstate Management System.dll
+C:\Users\mobak\Desktop\Esstate Management System\bin\Debug\net5.0\Esstate Management System.pdb
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.csproj.AssemblyReference.cache
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.AssemblyInfoInputs.cache
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.AssemblyInfo.cs
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.csproj.CoreCompileInputs.cache
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.dll
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\ref\Esstate Management System.dll
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.pdb
+C:\Users\mobak\Desktop\Esstate Management System\obj\Debug\net5.0\Esstate Management System.genruntimeconfig.cache
